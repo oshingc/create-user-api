@@ -27,10 +27,6 @@ Clonar el repositorio:
 ```
 git clone git@github.com:oshingc/create-user-api.git
 ```
-Clonar el repositorio:
-```
-git clone git@github.com:oshingc/create-user-api.git
-```
 
 ## Construir el proyecto:
 ### Gradle
