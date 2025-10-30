@@ -232,3 +232,15 @@ password:<empty>
    - Los mensajes de error están en español y siguen un formato consistente.
    - JWT utilizado para autenticación y autorización.
    - Se recomienda probar con Postman o Swagger.
+
+### Diagrama de Arquitectura
+
+![img_2.png](img_2.png)
+
+### Modelo de Base de Datos
+
+![img_3.png](img_3.png)
+
+### Flujo de creación de usuario
+
+![img_6.png](img_6.png)
