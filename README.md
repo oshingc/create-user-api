@@ -34,11 +34,6 @@ git clone git@github.com:oshingc/create-user-api.git
 ./gradlew build
 ```
 
-### Maven
-```
-mvn clean install
-```
-
 ## Ejecutar la aplicación:
 ### Gradle
 ```
